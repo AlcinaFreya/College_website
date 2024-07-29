@@ -1,0 +1,19 @@
+.pdf-link {
+    background-color:  white;
+    border: none;
+    color:black;
+    padding: 15px 20px; 
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+    margin: 0; 
+    cursor: pointer;
+    border-radius: 0;
+    transition: background-color 0.3s; 
+  }
+  
+  .pdf-link:hover {
+    background-color:#E0E0E0 ; 
+  }

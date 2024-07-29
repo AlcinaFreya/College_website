@@ -1,0 +1,64 @@
+
+.academics-container {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+.aca-h1{
+    font-size:xx-large;
+}
+
+.academics-container h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+.academics-container h2 {
+  cursor: pointer;
+  font-size: 20px;
+  margin: 10px 0;
+  color: #3498db;
+  transition: color 0.3s ease;
+}
+
+.academics-container h2:hover {
+  color: #2c3e50;
+}
+
+.academics-container ul ol {
+  margin-left: 15px;
+  color: #34495e;
+  transition: color 0.3s ease;
+}
+
+.academics-container ul ol:hover {
+  color: #2c3e50;
+}
+.academics-h2 {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.star-icon {
+  margin-right: 5px; 
+}
+.navigate-button {
+  background-color: gray;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.navigate-button:hover {
+  background-color: lightgray;
+  color: black;
+}
+
+
+

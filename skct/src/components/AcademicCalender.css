@@ -1,0 +1,27 @@
+
+.pdf-link {
+    background-color:   #F5F5F5;
+    border: none;
+    color: #3366cc;
+    padding: 15px 20px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
+    margin: 0; 
+    cursor: pointer;
+    border-radius: 0; 
+    transition: background-color 0.3s;
+  }
+  
+  .pdf-link:hover {
+    background-color:#E0E0E0 ; 
+  }
+  .button-container {
+    border: 1px solid #ddd; 
+    padding: 15px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+  
